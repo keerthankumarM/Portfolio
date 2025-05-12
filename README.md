@@ -15,6 +15,6 @@
 ## 🛠 Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Icons**: Font Awesome 6
+- **Icons**: Font Awesome 
 - **Animations**: CSS Keyframes & Transitions
 - **Version Control**:  GitHub
