@@ -1,7 +1,7 @@
 ### *Portfolio Website*  
 🔗 [Live Demo](https://code-craft-keerthan-verse.lovable.app/#home)  
   
-- *100% Lighthouse score* for performance and accessibility
+- *100% Lighthouse score*  for performance and accessibility
 ## ✨ Features
 
 - **Dark/Light Mode Toggle** - User preference saved in localStorage
