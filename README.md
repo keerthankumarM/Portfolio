@@ -1,6 +1,5 @@
 ### *Portfolio Website*  
-🔗 [Live Demo](https://code-craft-keerthan-verse.lovable.app/#home)  
-  
+🔗 [Live Demo](https://code-craft-keerthan-verse.lovable.app/#home)   
 - *100% Lighthouse score*  for performance and accessibility
 ## ✨ Features
 
@@ -13,7 +12,7 @@
 - **Contact Form** - Functional contact section
 
 ## 🛠 Technologies Used
-🔗  [Live Demo](file:///C:/Users/keert/OneDrive/Desktop/Certificate.pdf)
+🔗 [certificate](file:///C:/Users/keert/OneDrive/Desktop/Certificate.pdf)
 
 - **Frontend**: HTML, CSS, JavaScript.
 - **Icons**: Font Awesome 
