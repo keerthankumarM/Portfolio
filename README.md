@@ -13,7 +13,7 @@
 - **Contact Form** - Functional contact section
 
 ## 🛠 Technologies Used
- [Live Demo](file:///C:/Users/keert/OneDrive/Desktop/Certificate.pdf)
+🔗  [Live Demo](file:///C:/Users/keert/OneDrive/Desktop/Certificate.pdf)
 
 - **Frontend**: HTML, CSS, JavaScript.
 - **Icons**: Font Awesome 
