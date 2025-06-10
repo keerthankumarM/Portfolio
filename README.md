@@ -1,5 +1,5 @@
 ### *Portfolio Website*  
-🔗 [Live Demo](https://code-craft-keerthan-verse.lovable.app/#home)   
+🔗 [Live Demo](https://lovable.dev/projects/a0ee68ad-7fe8-4276-abc7-6403304e4b29)   
 - *100% Lighthouse score*  for performance and accessibility
 ## ✨ Features
 
