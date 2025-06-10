@@ -12,8 +12,8 @@
 - **Contact Form** - Functional contact section
 
 ## 🛠 Technologies Used
-🔗 [certificate](file:///C:/Users/keert/OneDrive/Desktop/Certificate.pdf)
 
+🔗<a href="file:///C:/Users/keert/OneDrive/Desktop/Certificate.pdf">certificate</a>
 - **Frontend**: HTML, CSS, JavaScript.
 - **Icons**: Font Awesome 
 - **Animations**: CSS Keyframes & Transitions
