@@ -1,5 +1,5 @@
 ### *Portfolio Website*  
-🔗 [Live Demo](https://lovable.dev/projects/a0ee68ad-7fe8-4276-abc7-6403304e4b29)   
+🔗 [Live Demo](https://keerthan-portfolio-showcase.lovable.app/)   
 - *100% Lighthouse score*  for performance and accessibility
 ## ✨ Features
 
