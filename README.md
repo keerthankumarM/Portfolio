@@ -1,6 +1,5 @@
 ### *Portfolio Website*  
 🔗 [Live Demo](https://keerthan-portfolio-showcase.lovable.app/)   
-- *100% Lighthouse score*  for performance and accessibility
 ## ✨ Features
 
 - **Dark/Light Mode Toggle** - User preference saved in localStorage
@@ -17,4 +16,4 @@
 - **Frontend**: HTML, CSS, JavaScript.
 - **Icons**: Font Awesome 
 - **Animations**: CSS Keyframes & Transitions
-- **Version Control**:  GitHub
+- **Version Control**:  GitHub And Git
