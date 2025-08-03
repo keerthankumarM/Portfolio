@@ -2,7 +2,7 @@
 
 ## Project info
 
-Simply visit the [Live Demo](https://keerthan-portfolio-showcase.lovable.app/) and start prompting.
+Simply visit the [Live Demo](https://portfolio-keerthan.netlify.app/) and start prompting.
 ## How can I edit this code?
 
 
